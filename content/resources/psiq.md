@@ -8,6 +8,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: bec8e0e6-6fff-66ce-0558-0c295bd1495c
 resourcetype: Image
 title: PsiQ.jpg
 uid: 91408bda-5142-bf8f-e755-05e548a6a866

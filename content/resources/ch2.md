@@ -7,6 +7,7 @@ description: Lecture notes about laminar to turbulent flows, the logistic map as
   description of turbulence.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/12-820-turbulence-in-the-ocean-and-atmosphere-spring-2006/43a1cd0c6869de8ef3b05d0f2c836ece_ch2.pdf
 file_type: application/pdf
+parent_uid: bec8e0e6-6fff-66ce-0558-0c295bd1495c
 resourcetype: Document
 title: ch2.pdf
 uid: 43a1cd0c-6869-de8e-f3b0-5d0f2c836ece

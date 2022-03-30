@@ -8,6 +8,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: bec8e0e6-6fff-66ce-0558-0c295bd1495c
 resourcetype: Image
 title: KeffPV.jpg
 uid: 49a06648-5529-bfbe-7075-9d020e8bad4d

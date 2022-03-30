@@ -8,6 +8,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: bec8e0e6-6fff-66ce-0558-0c295bd1495c
 resourcetype: Image
 title: Keff.jpg
 uid: 9377a8c7-2192-5bfc-deee-62ad066b92c7
